@@ -1,0 +1,25 @@
+﻿  test.cpp
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(109): warning C4101: “dwThreadID”: 未引用的局部变量
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(247): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(292): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(195): warning C4101: “ch”: 未引用的局部变量
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(191): warning C4101: “clientAddr”: 未引用的局部变量
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(460): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(484): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(514): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(551): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(594): warning C4244: “=”: 从“time_t”转换到“long”，可能丢失数据
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(607): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(608): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\赵浩宁\documents\visual studio 2015\projects\test\test\test.cpp(657): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+  test.vcxproj -> C:\Users\赵浩宁\documents\visual studio 2015\Projects\test\Debug\test.exe
+  test.vcxproj -> C:\Users\赵浩宁\documents\visual studio 2015\Projects\test\Debug\test.pdb (Full PDB)
